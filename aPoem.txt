@@ -6,3 +6,7 @@ These items are not in your traditional rainbow.
 Jeff
 Craig
 These are names, not colours.
+now I am adding colours
+red
+green
+blue
